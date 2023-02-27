@@ -9,7 +9,6 @@ function App() {
   const Header = () => {
     return (
       <header>
-        {" "}
         <button
           className="home button"
           onClick={() => {
